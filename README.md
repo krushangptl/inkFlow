@@ -1,3 +1,3 @@
-# Web Engineering Project by Repeaters
+# Web Engineering Project
 
 Working in progress...!
